@@ -1,0 +1,6 @@
+{
+  "name": "HealthTrack",
+  "description": "A modern, responsive everyday wellness tracking dashboard to monitor health metrics, habits, sleep, activity, and goals with privacy-first storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
